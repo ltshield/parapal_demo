@@ -1,4 +1,8 @@
-# ParaPal ![ParaPal Logo](./parapal-2.png)
+# ParaPal
+
+<p align="center">
+  <img src="./parapal-2.png" width="200" />
+</p>
 
 _ParaPal is an AI-powered teacher assistant currently in active development for potential commercial release._
 
