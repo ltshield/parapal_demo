@@ -49,6 +49,8 @@ ParaPal returns:
 
 All results feed into a consolidated **Reports Page**, making parent-teacher conferences, progress tracking, and documentation dramatically easier and faster.
 
+![ParaPal Demo](parapal-demo.gif)
+
 ---
 
 Teacher feedback has lead us to determine the potential commercial viability of a tool like this, and current work is being done to further streamline this process and integrate it into our educators' workflows.
