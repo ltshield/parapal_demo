@@ -1,6 +1,6 @@
 # ParaPal
 
-![ParaPal Demo](Parapal-demo.gif)
+
 
 _ParaPal is an AI-powered teacher assistant currently in active development for potential commercial release._
 
@@ -49,7 +49,9 @@ ParaPal returns:
 - **Narrative feedback for each student**
 - **Auto-highlighted documents of student work showing *why* each score was assigned**
 
-All results feed into a consolidated **Reports Page**, making parent-teacher conferences, progress tracking, and documentation dramatically easier and faster.
+All results feed into a consolidated **Reports Page**, making parent-teacher conferences, progress tracking, and documentation dramatically easier and faster. See our demo below!
+
+![ParaPal Demo](Parapal-demo.gif)
 
 ---
 
