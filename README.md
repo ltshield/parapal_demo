@@ -1,6 +1,4 @@
-# ParaPal
-
-
+# ParaPal ![ParaPal Logo](./parapal-2.png)
 
 _ParaPal is an AI-powered teacher assistant currently in active development for potential commercial release._
 
